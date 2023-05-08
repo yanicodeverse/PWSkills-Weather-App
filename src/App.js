@@ -1,5 +1,4 @@
 import './App.css';
-// import UilReact from '@iconscout/react-unicons/icons/uil-react'
 import bgImg from './assets/bgImg.jpg'
 import { Inputs, TimeAndLocation, TemperatureAndDetails, getFormattedWeatherData } from './ComponentExports/exports'
 import { useEffect, useState } from 'react';
